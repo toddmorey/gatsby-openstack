@@ -1,3 +1,13 @@
+# Gatsby OpenStack
+
+A starting point for OpenStack Foundaiton web properties based off of the Gatsby + Netlify CMS starter template.
+
+Gatsby is a React-powered Static Site Generator. Netlify CMS is unique type of CMS that edits site content as static markdown files via git, but using a friendly and familair CMS interface. (CMS users do not have to use or understand git directly.) 
+
+- [Gatsby](https://www.gatsbyjs.org/docs/)
+- [Netlify CMS](https://netlifycms.org/)
+
+
 **Note:** Gatsby v2 beta support is here! Check out the [gatsby-v2 branch](https://github.com/AustinGreen/gatsby-starter-netlify-cms/tree/gatsby-v2) to start using it now.
 
 # Gatsby + Netlify CMS Starter
