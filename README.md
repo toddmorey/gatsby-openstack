@@ -1,4 +1,4 @@
-# Gatsby OpenStack
+# OpenStack Gatsby
 
 A starting point for OpenStack Foundaiton web properties based off of the Gatsby + Netlify CMS starter template.
 
